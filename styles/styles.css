@@ -230,8 +230,6 @@ main img{
 .contact label{
     width: 150px;
     text-align: right;
-    
-    
 }
 
 .contact input {
@@ -250,6 +248,8 @@ main img{
     font-size: 16px;
     margin-bottom: 24px;
     margin-left: 24px;
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid black;
 }
 
 .contact form .fake-button{
