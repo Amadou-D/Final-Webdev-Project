@@ -10,5 +10,5 @@ function display_message() {
 
 submitButton.addEventListener("click", function() {
     main_content.innerHTML = display_message();
-    main_content.style.fontSize="24px"
+    main_content.style.fontSize="24px";
 });
